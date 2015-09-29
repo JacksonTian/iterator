@@ -1,0 +1,30 @@
+{
+  "name": "itx",
+  "version": "1.0.0",
+  "description": "util of iterator",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacksonTian/itx.git"
+  },
+  "keywords": [
+    "Iterator"
+  ],
+  "author": "Jackson Tian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JacksonTian/itx/issues"
+  },
+  "homepage": "https://github.com/JacksonTian/itx#readme",
+  "devDependencies": {
+    "expect.js": "~0.3.1",
+    "istanbul": "~0.3.21",
+    "mocha": "~2.3.3"
+  }
+}
